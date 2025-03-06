@@ -30,19 +30,17 @@ Chaque tâche a un titre, une description, une date de début, une date de fin e
 
 2. Installez les programmes nécessaires :
    ```
-   npm install
+   npm init -y
+   npm install express body-parser cors helmet express-rate-limit
    ```
-3. Créez un fichier `.env` avec :
-   ```
-   PORT=3000
-   ```
+
 
 ## Comment démarrer l'application
 
 Tapez cette commande dans le terminal :
 
 ```
-npm start
+npm start ou node server.js
 ```
 
 Le serveur se lancera sur http://localhost:3000
