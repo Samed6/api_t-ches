@@ -24,7 +24,7 @@ Chaque tâche a un titre, une description, une date de début, une date de fin e
 1. Téléchargez les fichiers :
 
    ```
-   git clone [lien vers mon projet]
+   git clone git@github.com:Samed6/api_t-ches.git
    cd api_tache
    ```
 
